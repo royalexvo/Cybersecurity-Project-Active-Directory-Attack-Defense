@@ -48,7 +48,7 @@ Topics covered:
 - <b>Network configuration</b>
 - <b>Security and auditing configuration</b>
 
-<a href="REPLACE-WITH-PHASE-1-REPOSITORY-LINK">View Phase 1 – Active Directory Environment & Security Configuration</a>
+<a href="https://github.com/royalexvo/Active-Directory-Attack-Defense-Phase-1.git">View Phase 1 – Active Directory Environment & Security Configuration</a>
 
 <h3>Phase 2 – Kerberoasting Attack & Defense</h3>
 
@@ -65,7 +65,7 @@ Topics covered:
 - <b>Mitigation and remediation</b>
 - <b>Post-remediation verification</b>
 
-<a href="REPLACE-WITH-PHASE-2-REPOSITORY-LINK">View Phase 2 – Kerberoasting Attack & Defense</a>
+<a href="https://github.com/royalexvo/Active-Directory-Attack-Defense-Phase-2.git">View Phase 2 – Kerberoasting Attack & Defense</a>
 
 <h3>Phase 3 – Password Spraying Attack & Defense</h3>
 
@@ -83,7 +83,7 @@ Topics covered:
 - <b>Remediation and hardening</b>
 - <b>Post-remediation verification</b>
 
-<a href="REPLACE-WITH-PHASE-3-REPOSITORY-LINK">View Phase 3 – Password Spraying Attack & Defense</a>
+<a href="https://github.com/royalexvo/Active-Directory-Attack-Defense-Phase-3.git">View Phase 3 – Password Spraying Attack & Defense</a>
 
 <h2>Skills Developed</h2>
 

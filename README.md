@@ -4,16 +4,14 @@
 
 This project documents the expansion, attack simulation, investigation, and defense of an Active Directory environment using Windows Server 2022 and Windows 11 virtual machines. The goal of this project is to gain hands-on experience with common Active Directory attack techniques and understand how these attacks can be identified, investigated, and mitigated.
 
-<br />The project will build upon an existing Active Directory environment by adding additional users, groups, service accounts, and security configurations needed to create realistic attack scenarios. Controlled Kerberoasting and password spraying attacks will then be performed against the environment, followed by analysis of the generated security events and implementation of defensive measures.
+The project will build upon an existing Active Directory environment by adding additional users, groups, service accounts, and security configurations needed to create realistic attack scenarios. Controlled Kerberoasting and password spraying attacks will then be performed against the environment, followed by analysis of the generated security events and implementation of defensive measures.
 
-<br />The project is divided into the following phases:
+The project is divided into the following phases:
 - <b>Phase 1 – Active Directory Environment & Security Configuration</b>
 - <b>Phase 2 – Kerberoasting Attack & Defense</b>
 - <b>Phase 3 – Password Spraying Attack & Defense</b>
 
 This project provides hands-on experience with both offensive and defensive Active Directory security and will later be integrated with a Splunk SIEM environment for centralized detection and monitoring.
-<br />
-
 
 <h2>Languages and Utilities Used</h2>
 

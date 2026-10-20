@@ -23,10 +23,8 @@ This project provides hands-on experience with both offensive and defensive Acti
 - <b>Windows Event Viewer</b>
 - <b>Kali Linux</b>
 - <b>Impacket</b>
-- <b>Oracle VirtualBox</b>
 - <b>Hashcat</b>
 - <b>NetExec</b>
-- <b>Additional security tools introduced throughout the project</b>
 
 
 <h2>Environments Used</h2>
@@ -35,8 +33,6 @@ This project provides hands-on experience with both offensive and defensive Acti
 - <b>Host Operating System: Windows 10 / Windows 11</b>
 - <b>Domain Controller: Windows Server 2022</b>
 - <b>Domain Workstation: Windows 11</b>
-- <b>Kali Linux</b>
-
 
 
 <h2>Project Phases:</h2>
